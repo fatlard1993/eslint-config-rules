@@ -1,2 +1,2 @@
-# eslint-config
+# eslint-rules
 My eslint rule set

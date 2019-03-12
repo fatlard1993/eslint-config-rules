@@ -1,19 +1,26 @@
 {
-  "name": "eslint-config",
-  "version": "1.0.1",
-  "description": "My eslint rule set",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fatlard1993/eslint-config.git"
-  },
-  "author": "fatlard1993",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fatlard1993/eslint-config/issues"
-  },
-  "homepage": "https://github.com/fatlard1993/eslint-config#readme"
+	"name": "eslint-rules",
+	"version": "1.0.1",
+	"description": "My eslint rule set",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/fatlard1993/eslint-config.git"
+	},
+	"author": "fatlard1993",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/fatlard1993/eslint-config/issues"
+	},
+	"homepage": "https://github.com/fatlard1993/eslint-config#readme",
+	"eslintConfig": {
+		"extends": "index.js"
+	},
+	"devDependencies": {
+		"babel-eslint": "^10.0.1",
+		"eslint": "^5.15.1"
+	}
 }
