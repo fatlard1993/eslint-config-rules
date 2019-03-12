@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "My eslint rule set",
+  "main": "eslint.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatlard1993/eslint-config.git"
+  },
+  "author": "fatlard1993",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatlard1993/eslint-config/issues"
+  },
+  "homepage": "https://github.com/fatlard1993/eslint-config#readme"
+}
