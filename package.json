@@ -1,8 +1,8 @@
 {
   "name": "eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My eslint rule set",
-  "main": "eslint.json",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
