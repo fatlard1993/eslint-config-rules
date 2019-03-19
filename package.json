@@ -19,8 +19,8 @@
 	"eslintConfig": {
 		"extends": "index.js"
 	},
-	"dependencies": {
-		"babel-eslint": "^10.0.1",
-		"eslint": "^5.15.1"
+	"peerDependencies": {
+		"babel-eslint": ">= 10",
+		"eslint": ">= 5"
 	}
 }
