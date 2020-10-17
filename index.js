@@ -200,7 +200,7 @@ module.exports = {
 		'semi': 'error',
 		'semi-spacing': ['error', { after: true, before: false }],
 		'semi-style': ['error', 'last'],
-		'sort-imports': 'error',
+		'sort-imports': 'off',
 		'sort-keys': 'off',
 		'sort-vars': 'off',
 		'space-before-blocks': 'off',
